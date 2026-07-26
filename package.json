@@ -1,0 +1,9 @@
+{
+  "name": "kyalodiaries-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shem Mwendwa Kyalo portfolio site with password-protected 5-photo gallery admin.",
+  "dependencies": {
+    "cloudinary": "^1.41.3"
+  }
+}
